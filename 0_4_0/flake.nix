@@ -11,7 +11,6 @@
   inputs.src-ndf-0_4_0.ref   = "refs/tags/0.4.0";
   inputs.src-ndf-0_4_0.owner = "rustomax";
   inputs.src-ndf-0_4_0.repo  = "ndf";
-  inputs.src-ndf-0_4_0.dir   = "";
   inputs.src-ndf-0_4_0.type  = "github";
   
   inputs."docopt".owner = "nim-nix-pkgs";

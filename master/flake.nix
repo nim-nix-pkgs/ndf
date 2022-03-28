@@ -11,7 +11,6 @@
   inputs.src-ndf-master.ref   = "refs/heads/master";
   inputs.src-ndf-master.owner = "rustomax";
   inputs.src-ndf-master.repo  = "ndf";
-  inputs.src-ndf-master.dir   = "";
   inputs.src-ndf-master.type  = "github";
   
   inputs."docopt".owner = "nim-nix-pkgs";
